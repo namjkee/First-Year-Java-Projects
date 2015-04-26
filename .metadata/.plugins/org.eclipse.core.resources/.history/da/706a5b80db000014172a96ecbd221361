@@ -1,0 +1,32 @@
+package lab05;
+
+public class magicSquare {
+	
+	public static void main(String[] args) {
+		
+		/* Input from user to create magic square */
+		int n = Integer.parseInt(args[0]);
+		
+		/* Variables to be used in loop*/
+		int rows;
+		int columns;
+		int sum;
+
+		/**
+		 * This variable takes in arguments to create square
+		 */
+		int [][] magicSquare = new int[n][n];
+		
+		for (int i = 0; i < n; i++) {
+			
+			for (int j = 0; j < n; j++) {
+				System.out.print(j);
+			}
+			
+			System.out.println();
+		}
+		
+		
+		
+	}
+}

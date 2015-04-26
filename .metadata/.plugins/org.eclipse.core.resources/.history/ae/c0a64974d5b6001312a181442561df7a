@@ -1,0 +1,44 @@
+package pretty;
+
+public class PrettyPrint {
+	
+	public static void printRectangle(int height, int width)			// read name of shape- system.outprintln
+																		//ignore upperlower case using = S.equalsIgnorecase
+	{																	//
+		int i= 0;
+		while (i<width); {
+			System.out.print('-');
+			i++;
+		}
+		int j= 0;
+		while (j<height); {
+			System.out.print('|');
+			j++;
+		}
+		System.out.println();
+	}
+	
+	
+	public static void printTriangle(int size) 
+	{	
+		
+	}
+	
+	
+	public static void printDiamond(int size) 
+	{
+	
+
+	}
+
+	
+	public static void main(String[] args) 
+	{
+		int height = 1
+		int width = 7
+		
+
+
+	}
+
+}

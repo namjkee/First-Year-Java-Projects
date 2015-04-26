@@ -1,0 +1,35 @@
+package stats;
+
+public class Stats {
+	public static double getAverage(int [] numbers) {
+		return 0;
+		
+	}
+	
+	public static int getMin(int [] numbers) {
+		return 0;
+	}
+	
+	public static int getMax(int [] numbers) {
+		return 0;
+	}
+	
+
+	public static void main(String[] args) {
+		/*
+		 *  getAverage method returns floating point average of the set of numbers
+		 *  getMaximum method will return the largest values of arrays
+		 *  getMinimum method will return the smallest values of arrays
+		 *  These methods will be declared in the Main Method
+		 */
+					
+		int [] x = new int [args.length = 1];
+		int [] y = new int [args.length = 1];
+		int [] z = new int [args.length = 1];
+		
+		for ( )
+		
+
+	}
+
+}

@@ -1,0 +1,27 @@
+package stats;
+
+public class Stats {
+	
+	public static double getAverage(int [] numbers) {
+		//code
+		return 0.0;
+	}
+	
+	public static int getMin(int [] numbers ) {
+		//code
+		return 0;
+	}
+	
+	public static int getMax(int [] numbers) {
+		//code
+		return 0;
+	}
+
+	public static void main(String[] args) {
+		int data [] = new int [3];
+		data = new int[] {0,1,2,3,4};
+		
+		
+	}
+
+}

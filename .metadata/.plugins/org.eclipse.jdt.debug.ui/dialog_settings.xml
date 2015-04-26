@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="82" key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth2"/>
+	<item value="1" key="org.eclipse.jdt.debug.ui.jre_preference_page_context.sortColumn"/>
+	<item value="188" key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth1"/>
+	<item value="115" key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth0"/>
+	<section name="conditionHistory">
+	</section>
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=PracticeTask/src&amp;lt;{SimpleCalc.java[SimpleCalc&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=PracticeTask/src&amp;lt;{Quadratic.java[Quadratic&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=info1103-lab02/src&amp;lt;lab02{IsPrime.java[IsPrime&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=info1103-lab03/src&amp;lt;lab03{testinginteger.java[testinginteger&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=info1103-lab04/src&amp;lt;lab04{WordScore.java[WordScore&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=info1103-task5/src&amp;lt;transpose{Stringy.java[Stringy&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=info1103-task4/src&amp;lt;reading{Readability.java[Readability&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=info1103-lab02/src&amp;lt;lab02{HelloWorld.java[HelloWorld&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=info1103-lab02/src&amp;lt;{isPrime.java[isPrime&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=info1103-lab03/src&amp;lt;lab03{isEven.java[isEven&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=info1103-lab03/src&amp;lt;lab03{EvenTest.java[EvenTest&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=info1103-lab07/src&amp;lt;MockPackage{Words.java[Words&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="0" key="DIALOG_Y_ORIGIN"/>
+			<item value="100" key="DIALOG_X_ORIGIN"/>
+		</section>
+	</section>
+	<section name="org.eclipse.jdt.internal.debug.ui.ExpressionInformationControlCreator$ExpressionInformationControl">
+		<item value="712" key="SashWeightTree"/>
+		<item value="287" key="SashWeightDetails"/>
+		<item value="608" key="WIDTH"/>
+		<item value="194" key="HEIGHT"/>
+	</section>
+</section>

@@ -1,0 +1,22 @@
+
+public class CaesarBox {
+    public static void main(String[] args) {
+        // CaesarsBox <-encrypt|-decrypt>
+        if(args[0].equals("-encrypt")){
+            System.out.println(encrypt(args[1]));
+        }
+        else if(args[0].equals("-decrypt")){
+            System.out.println(decrypt(args[1]));
+        }
+    }
+    public static String encrypt(String plainText) {
+        // TODO put encryption code below this line
+        // Put encryption code above this line
+    	return "Encrypted";
+    }
+    public static String decrypt(String cypherText) {
+        // TODO put decryption code below this line
+        // Put decryption code above this line
+    	return "Decrypted";
+    }
+}

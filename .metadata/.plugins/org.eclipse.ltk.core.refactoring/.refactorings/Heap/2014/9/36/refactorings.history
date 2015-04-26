@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;HeapPriorityQueue/src&apos;&#x0D;&#x0A;- Original project: &apos;Heap&apos;&#x0D;&#x0A;- Destination element: &apos;HeapPriorityQueue/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Heap.java&#x0D;&#x0A;     ArrayHeap.java" description="Copy compilation units" destination="=HeapPriorityQueue/src" element1="/src&lt;{Heap.java" element2="/src&lt;{ArrayHeap.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1410008073457" units="2" version="1.0"/>
+</session>

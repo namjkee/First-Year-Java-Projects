@@ -1,0 +1,11 @@
+package lab02;
+
+public class HelloWorld {
+	public static void main(String[] args) {
+		System.out.println("Hello, World!");
+		System.out.println(args[0]);
+		System.out.println(args.length);
+		char [] name = new char[15];
+		System.out.println(name.length);
+	   }
+}

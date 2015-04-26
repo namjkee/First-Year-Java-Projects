@@ -1,0 +1,37 @@
+package pretty;
+
+public class PrettyPrint {
+	
+	public static void printRectangle(int height, int width){
+		int i = 0;
+		while (i < height);{
+			System.out.print('|');
+		}
+		while (i < width);{
+			System.out.print('-');
+		}
+		System.out.println();
+	}
+	
+	
+	public static void printTriangle(int size) 
+	{
+	
+
+	}
+	
+	
+	public static void printDiamond(int size) 
+	{
+	
+
+	}
+
+	
+	public static void main(String[] args) 
+	{
+
+
+	}
+
+}

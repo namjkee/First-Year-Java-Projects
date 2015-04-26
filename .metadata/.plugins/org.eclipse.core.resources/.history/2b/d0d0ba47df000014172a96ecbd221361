@@ -1,0 +1,48 @@
+package lab05;
+
+public class Stats {
+	
+	public static void main(String[] args) {
+		int[] arguments = new int[args.length];
+		
+		for (int i: arguments) {
+			for (int j = 0; i < arguments.length; i++) {
+				i = Integer.parseInt(args[j]);
+			}
+		}
+		System.out.println(getAverage(arguments));
+	}
+	
+	public static double getAverage(int[] x) {
+		double sum = 0.0;
+		double average;
+		for (int i : x) {
+			sum += (double)i;
+		}
+		average = sum / x.length;
+		return average;
+	}
+	
+	public static int getMaximum(int[] x) {
+		int max = Integer.MIN_VALUE;
+		
+		for (int i: x) {
+			if (i > max) {
+				max = i;
+			}
+		}
+		return max;
+	}
+	
+	public static int getMinimum(int[] x) {
+		int min = Integer.MAX_VALUE;
+		
+		for (int i: x) {
+			if (i < min) {
+				min = i;
+			}
+		}
+		return min;
+	}
+
+}

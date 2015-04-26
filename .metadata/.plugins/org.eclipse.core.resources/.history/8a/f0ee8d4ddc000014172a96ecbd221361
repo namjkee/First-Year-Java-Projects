@@ -1,0 +1,9 @@
+package lab05;
+
+public class Stats {
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

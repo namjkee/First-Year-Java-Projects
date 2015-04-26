@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;INFO1105 Textbook&apos;&#x0D;&#x0A;- Original project: &apos;INFO1105 Textbook&apos;&#x0D;&#x0A;- Original element: &apos;Chapter_6_Stacks_Queries_and_Deques.ADT_Stack.java&apos;" description="Delete element" element1="/src&lt;Chapter_6_Stacks_Queries_and_Deques{ADT_Stack.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1407866251155" subPackages="false" version="1.0"/>
+</session>

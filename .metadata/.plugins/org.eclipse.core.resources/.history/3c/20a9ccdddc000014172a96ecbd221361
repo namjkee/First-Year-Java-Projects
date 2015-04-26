@@ -1,0 +1,21 @@
+package lab05;
+
+public class Stats {
+	
+	public static void main(String[] args) {
+		//TODO 
+	}
+	
+	public static double getAverage(int[] x) {
+		return 0;
+	}
+	
+	public static double getMaximum(int[] x) {
+		return 0;
+	}
+	
+	public static double getMinimum(int[] x) {
+		return 0;
+	}
+
+}

@@ -1,0 +1,15 @@
+package lab05;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class StatsTest {
+
+	@Test
+	public void testAverage() {
+		int[] data = new int[]{1,2,3,4,5,6};
+		assertEquals(3.0, Stats.getAverage(data),0);
+	}
+
+}

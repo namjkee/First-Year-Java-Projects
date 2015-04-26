@@ -1,0 +1,104 @@
+package pretty;
+
+public class PrettyPrint {
+	
+	public static void printRectangle(int height, int width)			// read name of shape- system.outprintln
+																		//ignore upperlower case using = S.equalsIgnorecase
+	{	// h= 1 w=7
+		System.out.print("+");
+		int i= 0;
+		while (i<width); {
+			System.out.print('-');
+			i++;
+		}
+		System.out.print("+");
+		System.out.println();
+		int j= 0;
+		while (j<height); {
+			System.out.print('|');
+		
+			i= 0;
+			while (i<width); {				// "while loop" nested in another "while loop"
+				System.out.println(" ");
+				i++;
+			}
+			System.out.print('|');
+			System.out.println();
+			j++;
+		}
+		System.out.println();
+		System.out.print("+");
+		i=0;
+		while (i<width); {
+			System.out.print('-');
+			i++;
+		}
+		System.out.println("+");
+	}
+	
+	
+	public static void printTriangle(int size) 
+	{//size side=2	
+	System.out.println("+");
+	System.out.println();
+	int k= 0;
+	while (k<size){
+		System.out.print("|");
+		k++;
+	}
+	k=0;
+	while (k<size){
+		System.out.print("\\");	// Two backslash keys are required to create the "\" string
+		k++;
+	}
+	System.out.println();
+	System.out.println("+");
+	k=0;
+	while (k<size){
+		System.out.print("-");
+		k++;
+	}
+	System.out.print("+");
+	}
+	
+	
+	public static void printDiamond(int size) 
+	{//size side = 2
+	System.out.print("    +    ");
+	System.out.println();
+	int l=0;
+	while (l<size) {
+		System.out.println("/");
+		l++;
+	}
+	while (l<size) {
+		System.out.print("\\");
+		l++;
+	}
+	System.out.println();
+	System.out.print("+        +");
+	System.out.println();
+	
+	
+
+	}
+
+	
+	public static void main(String[] args) 
+	{
+		int height = 1;
+		int width = 7;
+		printRectangle(height,width);
+		int i= 0;
+		int j= 0;
+		while (i< width-1); { 
+			System.out.print('-');
+		}while (j<height-1); {
+			System.out.print('|');
+		}
+		
+
+
+	}
+
+}

@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="false" key="TypeHierarchyViewPart.qualifiednames"/>
+	<item value="3" key="TypeHierarchyViewPart.orientation"/>
+	<item value="false" key="TypeHierarchyViewPart.linkeditors"/>
+	<item value="2" key="TypeHierarchyViewPart.hierarchyview"/>
+	<section name="DialogBounds_SuperInterfaceSelectionDialog">
+		<item value="373" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="548" key="DIALOG_HEIGHT"/>
+		<item value="0" key="DIALOG_Y_ORIGIN"/>
+		<item value="85" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.FilteredTypesSelectionDialog">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="0" key="DIALOG_Y_ORIGIN"/>
+			<item value="-37" key="DIALOG_X_ORIGIN"/>
+		</section>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
+		<item value="2" key="layout"/>
+		<item value="true" key="group_libraries"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;packageExplorer group_libraries=&quot;1&quot; layout=&quot;2&quot; linkWithEditor=&quot;0&quot; rootMode=&quot;1&quot; workingSetName=&quot;Aggregate for window 1395157095094&quot;&gt;&#x0D;&#x0A;&lt;customFilters userDefinedPatternsEnabled=&quot;false&quot;&gt;&#x0D;&#x0A;&lt;xmlDefinedFilters&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.StaticsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.pde.ui.BinaryProjectFilter1&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.pde.ui.ExternalPluginLibrariesFilter1&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.FieldsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;/xmlDefinedFilters&gt;&#x0D;&#x0A;&lt;/customFilters&gt;&#x0D;&#x0A;&lt;/packageExplorer&gt;" key="memento"/>
+		<item value="false" key="linkWithEditor"/>
+		<item value="1" key="rootMode"/>
+	</section>
+	<section name="NewClassWizardPage">
+		<item value="false" key="create_constructor"/>
+		<item value="true" key="create_unimplemented"/>
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item value="true" key="org.eclipse.jdt.ui.typecomment.deprecated"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.typehierarchy.QuickHierarchy">
+		<item value="true" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_USE_PERSISTED_SIZE"/>
+		<item value="440" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_HEIGHT"/>
+		<item value="500" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_WIDTH"/>
+		<item value="false" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_USE_PERSISTED_LOCATION"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.OpenTypeSelectionDialog2">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;" key="WorkingSet"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="195" key="DIALOG_Y_ORIGIN"/>
+			<item value="668" key="DIALOG_X_ORIGIN"/>
+		</section>
+	</section>
+	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
+		<item value="529" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="695" key="DIALOG_HEIGHT"/>
+		<item value="65" key="DIALOG_Y_ORIGIN"/>
+		<item value="704" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.text.QuickOutline">
+		<item value="true" key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_USE_PERSISTED_SIZE"/>
+		<item value="500" key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_WIDTH"/>
+		<item value="440" key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_HEIGHT"/>
+		<item value="false" key="GoIntoTopLevelTypeAction.isChecked"/>
+		<item value="false" key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_USE_PERSISTED_LOCATION"/>
+	</section>
+	<section name="RefactoringWizard.preview">
+		<item value="600" key="width"/>
+		<item value="400" key="height"/>
+	</section>
+	<section name="javadoc">
+		<item value="public" key="access"/>
+		<item value="false" key="noindex"/>
+		<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Friendships\javadoc.xml" key="antpath"/>
+		<item value="false" key="nodeprecatedlist"/>
+		<item value="true" key="use"/>
+		<item value="true" key="author"/>
+		<item value="false" key="nodeprecated"/>
+		<item value="false" key="nonavbar"/>
+		<item value="" key="docletpath"/>
+		<item value="" key="javadoc_command_history"/>
+		<item value="1.7" key="source"/>
+		<item value="true" key="version"/>
+		<item value="" key="docletname"/>
+		<item value="true" key="splitindex"/>
+		<item value="true" key="fromStandard"/>
+		<item value="false" key="notree"/>
+		<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Friendships\doc" key="destdir"/>
+		<item value="false" key="openinbrowser"/>
+		<section name="projects">
+			<section name="info1103-assignment 1">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\info1103-assignment 1\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\info1103-assignment 1\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="TravelDestinations">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\TravelDestinations\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\TravelDestinations\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="info1103-assignment 2">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\info1103-assignment 2\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\info1103-assignment 2\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="PrimeNumbers">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\PrimeNumbers\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\PrimeNumbers\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="antonsbattleship">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\antonsbattleship\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\antonsbattleship\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Friendships">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Friendships\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Friendships\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="HashMap">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\HashMap\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\HashMap\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="BinarySort">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\BinarySort\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\BinarySort\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="BinaryTree">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\BinaryTree\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\BinaryTree\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Fibonnaci">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Fibonnaci\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Fibonnaci\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="info1105-assignment 2">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\info1105-assignment 2\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\info1105-assignment 2\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="TypedPriorityQueue">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\TypedPriorityQueue\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\TypedPriorityQueue\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Snakes">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Snakes\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Snakes\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="info1105-assignment 1">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\info1105-assignment 1\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\info1105-assignment 1\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="TextbookManager">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\TextbookManager\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\TextbookManager\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="CombSort">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\CombSort\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\CombSort\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Reminders">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Reminders\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Reminders\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Test">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Test\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Test\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="appcompat_v7">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\appcompat_v7\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\appcompat_v7\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="TypedTree">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\TypedTree\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\TypedTree\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Tree">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Tree\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Tree\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Palindrome">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Palindrome\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Palindrome\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Space Invaders">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Space Invaders\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Space Invaders\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="TravelBargains">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\TravelBargains\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\TravelBargains\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="ArrayStringStack">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\ArrayStringStack\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\ArrayStringStack\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="GeometricMean">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\GeometricMean\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\GeometricMean\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="PriorityQueue">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\PriorityQueue\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\PriorityQueue\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Heap">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Heap\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Heap\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="LinkedList">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\LinkedList\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\LinkedList\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="FamilyTree">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\FamilyTree\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\FamilyTree\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Stack">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Stack\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Stack\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="CocktailSort">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\CocktailSort\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\CocktailSort\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="WeightedGraph">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\WeightedGraph\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\WeightedGraph\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Graph">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Graph\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Graph\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="MergeSort">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\MergeSort\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\MergeSort\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Hailstone">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Hailstone\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Hailstone\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="PhoneBook">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\PhoneBook\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\PhoneBook\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Kilobolt game">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Kilobolt game\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Kilobolt game\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="StatisticsCalculator">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\StatisticsCalculator\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\StatisticsCalculator\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="GenericHashMap">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\GenericHashMap\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\GenericHashMap\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Queue">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Queue\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\Queue\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="TriangleNumber">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\TriangleNumber\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\TriangleNumber\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="HeapPriorityQueue">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\HeapPriorityQueue\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\HeapPriorityQueue\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="IterableTree">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\IterableTree\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\IterableTree\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="SpeciesDetector">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\SpeciesDetector\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\SpeciesDetector\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="QuickSort">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\QuickSort\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\QuickSort\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="TextEditor">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\TextEditor\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\TextEditor\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="INFO1105 Textbook">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\INFO1105 Textbook\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\INFO1105 Textbook\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="DFA">
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\DFA\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Clifford\Downloads\Uni Work\INFO 1103 - Introduction to Programming\Java Projects\DFA\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+		</section>
+	</section>
+	<section name="SourceActionDialog.methods">
+		<item value="false" key="SynchronizedModifier"/>
+		<item value="false" key="Comments"/>
+		<item value="1" key="VisibilityModifier"/>
+		<item value="false" key="FinalModifier"/>
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item value="1" key="pageIndex"/>
+	</section>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="NewPackageWizardPage">
+		<item value="false" key="create_package_info_java"/>
+	</section>
+	<section name="JavadocWizardDialog">
+		<item value="616" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|5|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="615" key="DIALOG_HEIGHT"/>
+		<item value="8" key="DIALOG_Y_ORIGIN"/>
+		<item value="383" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="AddGetterSetterDialog">
+		<item value="false" key="RemoveFinal"/>
+		<item value="false" key="SortOrdering"/>
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+</section>

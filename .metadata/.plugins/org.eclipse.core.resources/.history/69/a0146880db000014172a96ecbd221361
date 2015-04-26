@@ -1,0 +1,27 @@
+package lab05;
+
+public class PongoSort {
+	
+	public int getRandom(int random) {
+		
+		numbers[i] = (int)(Math.random() * 100.0);
+		
+		return 0;
+	}
+	
+	public static boolean inOrder (int [] numbers ) {
+		
+		 if (numbers.length < 2) {
+		 return true ;
+		 }
+		 
+		 for (int i = 1; i < numbers.length; ++i) {
+		
+			 if (numbers[i-1] > numbers[i]) {
+				 return false ;
+			 }
+		 }
+		 
+		 return true ;
+	}
+}

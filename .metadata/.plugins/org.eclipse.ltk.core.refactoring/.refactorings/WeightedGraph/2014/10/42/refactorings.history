@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;TravelBargains/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;WeightedGraph&apos;&#x0D;&#x0A;- Destination element: &apos;TravelBargains/src/(default package)&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     WeightedDirectedGraph.java&#x0D;&#x0A;     Node.java&#x0D;&#x0A;     WeightedGraph.java" description="Copy compilation units" destination="=TravelBargains/src&lt;" element1="/src&lt;{WeightedDirectedGraph.java" element2="/src&lt;{Node.java" element3="/src&lt;{WeightedGraph.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1413281888698" units="3" version="1.0"/>
+</session>

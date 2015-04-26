@@ -1,0 +1,129 @@
+package pretty;
+
+public class PrettyPrint {
+	public static void printRectangle(int height, int width)			// read name of shape- system.outprint	//ignore uppercase case using = S.equalsIgnorecase
+	{	// h= 1 w=7
+		System.out.print("+");
+		int i = 0;
+		while (i < width) {
+			System.out.print('-');
+			i++;
+		} 
+		
+  		System.out.print("+");
+		System.out.println();
+		
+		int j = 0;
+		while (j < height) {
+			System.out.print('|');
+		
+			i = 0;
+			while (i < width) {				// to print or shift the cursor to other side
+				System.out.print(" ");
+				i++;
+			} 
+			
+			System.out.print('|');
+			System.out.println();
+			j++;
+		} 
+		
+		System.out.print("+");
+		i = 0;
+		while (i < width) {
+			System.out.print('-');
+			i++;
+		} 
+		System.out.print("+");
+	}
+	
+	
+/*	public static void printTriangle(int size) 
+	{//size side=2	
+	System.out.println("+");
+	System.out.println();
+	int k= 0;
+	while (k<size){
+		System.out.print("|");
+		k++;
+	}
+	k=0;
+	while (k<size){
+		System.out.print("\\");	// Two backslash keys are required to create the "\" string
+		k++;
+	}
+	System.out.println();
+	System.out.println("+");
+	k=0;
+	while (k<size){
+		System.out.print("-");
+		k++;
+	}
+	System.out.print("+");
+	}
+	
+	
+	public static void printDiamond(int size) 
+	{//size side = 2
+	int i = 0;
+	while (i < size + 1){
+		System.out.print(" ");
+		i++;
+	}
+	System.out.println("+");
+	
+	int j = 0;
+	while (j < size){
+		System.out.print(" ");
+		j++;
+	}
+	System.out.print("/");
+	
+	
+	
+	System.out.println();
+	int l=0;
+	while (l<size) {
+		System.out.println("/");
+		l++;
+	}
+	while (l<size) {
+		System.out.print("\\");
+		l++;
+	}
+	System.out.println();
+	System.out.print("+        +");
+	System.out.println();
+	
+	}
+
+*/
+	public static void main(String[] args) 
+	{
+		String rectangle = "printrectangle";
+		String triangle  = "printtriangle";
+		String diamond   = "printdiamond";
+		
+		String s = String.valueOf(args[0]);
+
+		if (s.equalsIgnoreCase(rectangle)) {
+			int h    = Integer.parseInt(args[1]);					// the height
+			int w    = Integer.parseInt(args[2]);					// the width
+			if (h >= 0 && w >= 0) {
+			printRectangle(h, w);
+			}
+		} 
+		else if (s.equalsIgnoreCase(triangle)) {
+			System.out.println("to print triangle");
+		}
+		else if (s.equalsIgnoreCase(diamond)) {
+			int size    = Integer.parseInt(args[1]);	
+			if (size >= 0) {// the height
+				System.out.println("to print triangle");
+			}
+		}
+		else {
+			System.out.println("I do not recognise that shape");
+		}
+	}
+}

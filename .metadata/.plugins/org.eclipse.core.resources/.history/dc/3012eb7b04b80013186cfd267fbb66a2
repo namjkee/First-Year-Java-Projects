@@ -1,0 +1,134 @@
+package pretty;
+ 
+public class PrettyPrint {
+	public static void printRectangle(int height, int width)
+	{
+		System.out.print("+");
+		for (int i = 1; i <= width; i++) {
+			System.out.print('-');
+		} 
+		System.out.println("+");
+		
+		for (int j = 1; j <= height; j++) {
+			System.out.print('|');
+		
+			for (int k = 1; k <= width; k++) {				// to print or shift the cursor to other side
+				System.out.print(" ");
+			} 
+			System.out.println('|');
+		} 
+		
+		System.out.print("+");
+		for (int m = 1; m <= width; m++) {
+			System.out.print('-');
+		} 
+		System.out.print("+");
+	}
+	
+	
+	public static void printTriangle(int size) 
+	{		
+		System.out.println("+");
+	
+		for (int n = 0; n < size; n++) {
+			System.out.print("|");
+			for (int i = 0; i < n; i++) {
+				System.out.print(" ");
+			}
+			System.out.println("\\");
+		}
+	
+		System.out.print("+");
+		for (int j = 0; j < size; j++) {
+			System.out.print("-");
+		}
+		System.out.print("+");
+	}
+	
+	
+	public static void printDiamond(int size) 
+	{//size side = 2
+	
+		for (int i = 0; i <= size; i++) {
+			System.out.print(" ");
+		}
+		System.out.println("+");
+	
+		// To print the top half of diamond
+		for (int k = 0; k < size; k++) {
+			for (int m = k; m < size; m++) {		// To print spaces on the left of forward slash
+				System.out.print(" ");
+			}
+			System.out.print("/");
+
+			for (int n = 0; n <= k * 2; n++) {		// To print spaces on the right of forward slash
+				System.out.print(" ");
+  			}
+			System.out.println("\\");
+		}	// End 'for (int m = k; m < size; m++)'
+
+		System.out.print("+");
+		for (int x = 0; x <= size * 2; x ++) {
+			System.out.print(" ");
+		}
+		System.out.println("+");
+				
+		// To print the bottom half of diamond
+		for (int k = 0; k < size; k++) {
+			int n = 0;										// To print spaces on the left of backward slash
+			do {
+				System.out.print(" ");
+				n++;
+			} while (n <= k);
+			System.out.print("\\");
+			
+			for (int m = k * 2 + 1; m < size * 2; m++) {	// To print spaces on the right of backward slash
+				System.out.print(" ");
+			}
+			System.out.println("/");
+		}	// End 'for (int k = 0; k < size; k++)'
+
+		for (int i = 0; i <= size; i++) {
+			System.out.print(" ");
+		}
+		System.out.print("+");
+	}
+
+	public static void main(String[] args) 
+	{
+		String rectangle = "printrectangle";
+		String triangle  = "printtriangle";
+		String diamond   = "printdiamond";
+		
+		String s = String.valueOf(args[0]);
+		
+		if (s.equalsIgnoreCase(rectangle)) {
+			if (args.length == 3) {
+				int h = Integer.parseInt(args[1]);				// the height
+				int w = Integer.parseInt(args[2]);				// the width
+				if (h >= 0 && w >= 0) {
+					printRectangle(h, w);
+				}
+			}
+		} 
+		else if (s.equalsIgnoreCase(triangle)) {
+			if (args.length == 2) {
+				int num = Integer.parseInt(args[1]);			// the size
+				if (num >= 0) {										
+					printTriangle(num);
+				}
+			}
+		}
+		else if (s.equalsIgnoreCase(diamond)) {
+			if (args.length == 2) {
+				int size = Integer.parseInt(args[1]);			// the size	
+				if (size >= 0) {								
+					printDiamond(size);
+				}
+			}
+		}
+		else {
+			System.out.println("I do not recognise that shape");
+		}
+	}
+}

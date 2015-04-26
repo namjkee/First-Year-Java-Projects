@@ -1,0 +1,23 @@
+package lab05;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class StatsTest {
+	int[] testData = new int[]{1,2,3};
+
+	@Test
+	public void testAverage() {
+		int[] testData = new int[]{1,2,3};
+		assertEquals(2, Stats.getAverage(testData),0);
+	}
+	
+	@Test
+	public void testMax() {
+		assertEquals(2, Stats.getMaximum(testData));
+	}
+	
+	
+
+}

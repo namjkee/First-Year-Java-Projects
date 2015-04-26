@@ -1,0 +1,28 @@
+package lab05;
+
+public class Stats {
+	
+	public static void main(String[] args) {
+		int[] arguments = new int[args.length];
+		
+		for (int i: arguments) {
+			for (int j = 0; i < arguments.length; i++) {
+				i = Integer.parseInt(args[j]);
+			}
+		}
+		
+	}
+	
+	public static double getAverage(int[] x) {
+		return 0;
+	}
+	
+	public static double getMaximum(int[] x) {
+		return 0;
+	}
+	
+	public static double getMinimum(int[] x) {
+		return 0;
+	}
+
+}
